@@ -52,7 +52,7 @@ be able to take out all the flame spell snipers before the other snipers start s
       continue
 
 # Ask user for second choice
-# I will continue with second choice in Week 6 (Snipers or Troopers)
+# I will continue with second adn third choices in Week 6 (Snipers or Troopers)
 # while True:
 #    choice2 = input('\nWhat is your choice? : ')
 #    break
