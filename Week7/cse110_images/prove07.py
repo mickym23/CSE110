@@ -41,3 +41,7 @@ pixels_original[100, 204] = (0, 0, 0)
 
 # Saving to output image file
 image_original.save("output_file.jpg")
+
+# Open the new file
+new_image = Image.open("output_file.jpg")
+new_image.show()
